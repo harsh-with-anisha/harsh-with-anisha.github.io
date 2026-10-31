@@ -1,1 +1,1 @@
-Corrected final mobile-friendly website.
+Targeted smooth-transition final version.
