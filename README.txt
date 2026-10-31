@@ -1,1 +1,1 @@
-Final mobile-friendly invitation for Harsh with Anisha.
+Corrected final mobile-friendly website.
