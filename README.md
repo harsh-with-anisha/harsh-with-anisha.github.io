@@ -1,4 +1,1 @@
-# aHarsh with Anisha
-
-Static celebration site, published with GitHub Pages.
-
+Final mobile-friendly invitation for Harshita with Anisha.

@@ -1,1 +1,0 @@
-Final mobile-friendly invitation for Harshita with Anisha.
