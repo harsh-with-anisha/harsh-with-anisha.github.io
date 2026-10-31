@@ -1,0 +1,59 @@
+PASS | Five dashboard cards
+PASS | Five invitation sections
+PASS | Preferred naming throughout
+PASS | Family: Smt. Kusum Goyal
+PASS | Family: Late Shri Mahender Kumar Goyal
+PASS | Family: Mr. Navin Goyal and Mrs. Sonia Goyal
+PASS | Family: Mr. Nitin Goyal and Mr. Manoj Goyal
+PASS | Family: Mrs. Vandana Goyal
+PASS | Family: Mrs. Bimla Jain
+PASS | Family: Late Shri Lal Chand Jain
+PASS | Family: Mr. Mukesh Jain and Mrs. Babita Jain
+PASS | Programme: The Couple’s Grand Entrance
+PASS | Programme: Tilak and Godh Ceremony
+PASS | Programme: Haldi and Tel Baan
+PASS | Programme: Hi-Tea
+PASS | Programme: Mehendi and Sangeet
+PASS | Programme: Baraat Assembly and Sehra Bandi
+PASS | Programme: Ghudchari
+PASS | Programme: Mata Ki Chowki
+PASS | Vakratunda mantra
+PASS | Sarva Mangala mantra
+PASS | Mata swing asset and animation
+PASS | Engagement black/champagne palette
+PASS | Haldi blue/white treatment
+PASS | Mehendi green treatment
+PASS | Wedding relationship contrast
+PASS | Opening-page name/relation contrast
+PASS | WhatsApp contacts
+PASS | Five map buttons
+PASS | Reduced-motion support
+PASS | Mobile breakpoint
+PASS | Viewport configured
+PASS | No fixed card overflow on mobile
+PASS | Asset: engagement.jpg | 513439
+PASS | Image integrity: engagement.jpg
+PASS | Asset: haldi.jpg | 521832
+PASS | Image integrity: haldi.jpg
+PASS | Asset: mehendi.jpg | 621658
+PASS | Image integrity: mehendi.jpg
+PASS | Asset: wedding.jpg | 497305
+PASS | Image integrity: wedding.jpg
+PASS | Asset: mata.jpg | 551030
+PASS | Image integrity: mata.jpg
+PASS | Asset: ganesh.png | 2639176
+PASS | Image integrity: ganesh.png
+PASS | Asset: mata-swing.png | 2513867
+PASS | Image integrity: mata-swing.png
+PASS | Asset: qr-engagement.png | 1688
+PASS | Image integrity: qr-engagement.png
+PASS | Asset: qr-haldi.png | 1599
+PASS | Image integrity: qr-haldi.png
+PASS | Asset: qr-mehendi.png | 1599
+PASS | Image integrity: qr-mehendi.png
+PASS | Asset: qr-wedding.png | 1685
+PASS | Image integrity: qr-wedding.png
+PASS | Asset: qr-mata.png | 1495
+PASS | Image integrity: qr-mata.png
+PASS | All target blank links protected
+PASS | All QR codes have alt text

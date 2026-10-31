@@ -1,0 +1,14 @@
+PASS | engagement overlay lighter
+PASS | engagement wallpaper clarity
+PASS | bright card dates
+PASS | wedding relations uppercase
+PASS | five cards
+PASS | five invites
+PASS | family retained
+PASS | mantras retained
+PASS | mata swing retained
+PASS | preferred naming
+PASS | maps retained
+PASS | whatsapp retained
+PASS | mobile retained
+PASS | reduced motion retained
