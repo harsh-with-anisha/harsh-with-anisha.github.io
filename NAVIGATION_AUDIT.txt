@@ -1,0 +1,14 @@
+PASS | five celebrations buttons
+PASS | five previous buttons
+PASS | five next buttons
+PASS | correct order
+PASS | wraparound logic
+PASS | five invitations retained
+PASS | dress codes retained
+PASS | Navin number retained
+PASS | Vibhu retained
+PASS | quotes retained
+PASS | shimmer retained
+PASS | ambient retained
+PASS | hosts retained
+PASS | no unrequested content change
