@@ -1,1 +1,1 @@
-Final corrected invitation website.
+Ready-to-implement final wedding invitation website.
