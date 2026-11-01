@@ -1,0 +1,12 @@
+PASS | combined paternal line appears twice
+PASS | Paternal Parents appears twice
+PASS | old uncle family line removed
+PASS | old aunt family line removed
+PASS | contact cards unchanged
+PASS | navigation unchanged
+PASS | dress codes unchanged
+PASS | quotes unchanged
+PASS | date shimmer unchanged
+PASS | live elements unchanged
+PASS | contact additions unchanged
+PASS | Vibhu remains at end
